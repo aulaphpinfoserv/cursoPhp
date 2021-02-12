@@ -1,3 +1,2 @@
 <?php
-
-dgfxxgdxgddsds
+echo "teste";
