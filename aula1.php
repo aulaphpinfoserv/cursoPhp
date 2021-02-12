@@ -1,2 +1,4 @@
 <?php
-echo "teste";
+echo "ola mundo !!!";
+echo "<br>";
+phpinfo();
