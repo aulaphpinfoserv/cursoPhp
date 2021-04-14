@@ -17,3 +17,12 @@ function exibirDataAtual() {
     obterDataAtual("12/04/2021");
     obterDataAtual();
     }
+echo "nosso teste de conflito";
+echo "nosso teste de conflito";
+echo "nosso teste de conflito";
+echo "nosso teste de conflito";
+echo "nosso teste de conflito";
+echo "nosso teste de conflito";
+echo "simulando um conflito";
+echo "criamos o branch DEV";
+
